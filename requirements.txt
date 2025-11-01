@@ -1,0 +1,10 @@
+# Núcleo científico
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+
+# Modelagem e explicabilidade
+xgboost
+shap
